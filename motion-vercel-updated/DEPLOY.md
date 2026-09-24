@@ -1,6 +1,8 @@
 # Motion draft
 
-Nine static pages: home, shop, three flavor pages, formula, giveaway, movement, and FAQ.
+Eleven static pages: home, shop, three flavor pages, formula, giveaway, movement, FAQ, affiliates, and wholesale.
+
+The connected Vercel project deploys `main` from GitHub, with this folder as its root and `dist` as its output. No build step is needed. Mobile refinements live in `dist/mobile.css`, loaded after the original desktop styles. See `MOBILE-REVIEW.md` for the mobile verification record.
 
 ## Vercel preview
 
