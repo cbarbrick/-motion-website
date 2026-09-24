@@ -1,0 +1,13 @@
+{
+  "retrieved_at": "2026-09-24",
+  "car_image": "https://www.motionpouches.com/images/giveaway/urus-cutout.png",
+  "giveaway_details": "https://stevewilldoit.com/pages/motion-urus-giveaway",
+  "official_rules": "https://stevewilldoit.com/pages/giveaway-terms-and-conditions",
+  "reels": {
+    "reel-giveaway.mp4": "ig-01-giveaway.mp4",
+    "reel-lifestyle.mp4": "ig-03-latest-reel.mp4",
+    "reel-manifesto.mp4": "ig-04-brand-manifesto.mp4",
+    "reel-community.mp4": "ig-05-social.mp4"
+  },
+  "notes": "Original reel provenance is recorded in asset-sources.json. Reel posters are frames extracted at 3 seconds. Community and manifesto videos are compressed to 960px-wide H.264 for web delivery, with audio retained. Brand assets used for the user-requested private concept."
+}
